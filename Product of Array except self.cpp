@@ -15,3 +15,5 @@ public:
         return res;
     }
 };
+
+// Creating a Arrray with Prefix Products and creating another array with suffix products then finding resultant.
